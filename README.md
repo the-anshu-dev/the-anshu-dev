@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anshu Chaurasia</h1>
+<h1 align="center">Hi 👋, I'm Anshu Chaurasia, Full-Stack Developer [ Web + Android ]</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-anshu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="the-anshu-dev" /> </p>
@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-anshu-dev" alt="the-anshu-dev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/the_anshu_dev" target="blank"><img src="https://img.shields.io/twitter/follow/the_anshu_dev?logo=twitter&style=for-the-badge" alt="the_anshu_dev" /></a> </p>
-<h2 align="left">Hi 👋! My name is Anshu Chaurasia, Full-Stack Developer [ Web + Android ]</h2>
+<!-- <h2 align="left">Hi 👋! My name is Anshu Chaurasia, Full-Stack Developer [ Web + Android ]</h2> -->
 
 ###
 
