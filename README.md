@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=the-anshu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="the-anshu-dev" /> </p>
+<p align="center" width="100"> <img src="https://komarev.com/ghpvc/?username=the-anshu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="the-anshu-dev" /> </p>
 
 
 <div align="center">
