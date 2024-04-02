@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anshu Chaurasia</br> Full-Stack Developer </br> [ Web + Android ]</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-anshu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="the-anshu-dev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=the-anshu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="the-anshu-dev" /> </p>
 
 
 <div align="center">
