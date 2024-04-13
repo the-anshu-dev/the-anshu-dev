@@ -19,7 +19,9 @@
     <li>Google_meet</li>
     <li>Login with Twitter</li>
     <li>Metamask</li>
+    <li> - - - - - - - - - </li>
      <li>Carlos App</li>
+     <li>BarCode App</li>
     <li color="red">Silence_App[working] </li>
   
 </ul>
