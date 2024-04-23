@@ -113,5 +113,7 @@
 
 
 ###
+<img src="https://raw.githubusercontent.com/the-anshu-dev/the-anshu-dev/output/snake.svg" alt="Snake animation" />
 
+###
 ###
