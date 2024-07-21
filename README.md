@@ -11,14 +11,49 @@
 </div>
 
 
+ <table>
+  <tr>
+    <th>Website</th>
+    <th>Apk</th>
+  </tr>
+  <tr>
+    <td>ePosting</td>
+    <td>Carlos App</td>
+  </tr>
+    <tr>
+    <td>Advertisment_Sell</td>
+    <td>onTap App</td>
+  </tr>
+    <tr>
+    <td>Google_meet</td>
+    <td>ERScan App</td>
+  </tr>
+    <tr>
+    <td>Login with Twitter/Github/Google/Facebook</td>
+    <td>Silence_App</td>
+  </tr>
+    <tr>
+    <td>Metamask</td>
+    <td>Seek-meet</td>
+  </tr>
+    <tr>
+    <td>CTS3108</td>
+    <td>CTS-App</td>
+  </tr>
+    <tr>
+    <td>Avinya.Tech</td>
+  </tr>
+ 
+</table> 
+
+
 
 <h3 align="left">Projects : </h3>
 <ul>
-  <li>Avinya Website</li>
     <li>ePosting</li>
     <li>Advertisment_Sell</li>
     <li>Google_meet</li>
-    <li>Login with Twitter</li>
+    <li>Login with Twitter/Github/Google/Facebook</li>
     <li>Metamask</li>
     <li>CTS3108</li>
     <li>Avinya.Tech</li>
