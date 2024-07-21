@@ -10,6 +10,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-anshu-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<h3 align="left">Projects : </h3>
+
 
  <table>
   <tr>
@@ -49,26 +51,7 @@
 
 
 
-<h3 align="left">Projects : </h3>
-<ul>
-    <li>ePosting</li>
-    <li>Advertisment_Sell</li>
-    <li>Google_meet</li>
-    <li>Login with Twitter/Github/Google/Facebook</li>
-    <li>Metamask</li>
-    <li>CTS3108</li>
-    <li>Avinya.Tech</li>
 
-  <li> - - - - - - - - - </li>
-     <li>Carlos App</li>
-     <li>BarCode App</li>
-    <li>Silence_App </li>
-    <li>Seek-meet </li>
-    <li>CTS-App </li>
-
-
-  
-</ul>
 
 
 
