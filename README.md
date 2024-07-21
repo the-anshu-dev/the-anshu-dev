@@ -23,7 +23,7 @@
     <li> - - - - - - - - - </li>
      <li>Carlos App</li>
      <li>BarCode App</li>
-    <li color="red">Silence_App[working] </li>
+    <li color="red">Silence_App </li>
   
 </ul>
 
