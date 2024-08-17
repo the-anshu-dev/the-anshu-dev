@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td>Avinya.Tech</td>
-    <td></td>
+    <td>Wallicon * 4</td>
   </tr>
 </table>
 
