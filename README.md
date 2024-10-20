@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anshu Chaurasia</br> Full-Stack Developer </br> [ Web + Android ]</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=the-anurag-dev&label=Profile%20views&color=0e75b6&style=flat" alt="the-anurag-dev" />
+  <img src="https://komarev.com/ghpvc/?username=the-anshu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="the-anshu-dev" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-anurag-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-anurag-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=the-anshu-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=the-anshu-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <h3 align="left">Projects:</h3>
@@ -107,7 +107,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=the-anurag-dev" alt="the-anurag-dev" />
+    <img src="https://github-profile-trophy.vercel.app/?username=the-anshu-dev" alt="the-anshu-dev" />
   </a>
 </p>
 
